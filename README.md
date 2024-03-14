@@ -1,6 +1,6 @@
 # ffx2011-benchmarks
 
-Original benchmark problem sets from FFX 2011 work.
+Original benchmark problem sets from [FFX 2011 work](https://github.com/trentmc/ffx2011).
 
 Real-world test datasets:
 
